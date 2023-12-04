@@ -1,2 +1,2 @@
 pub(crate) mod lex;
-mod token;
+pub(crate) mod token;
